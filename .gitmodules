@@ -272,4 +272,4 @@
 	url = git@github.com:SarahRogue81/WhatsTheScoop.git
 [submodule "pelican-kalm"]
 	path = pelican-kalm
-	url = git@github.com:fabian-vl/pelican-kalm.git
+	url = https://github.com/fabian-vl/pelican-kalm.git
